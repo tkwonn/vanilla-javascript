@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.bg-gray { 
+  background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898; 
+  background-blend-mode: multiply,multiply;
+}
+
+.vh-10 {
+  height: 10vh;
+}
+.vh-30{
+  height: 30vh;
+}
+.vh-41{
+  height: 41vh;
+}
+.vh-75{
+  height: 75vh;
+}
+
+.box-bottom {
+  height: 10vh;
+}
+
+.h-30 {
+  height: 30%;
+}
+
+.full-width{
+  height:20%;
+  flex-shrink: 0;
+}
+
+.deplete-animation{
+  animation: deplete 1s linear forwards;
+}
+
+.expand-animation{
+  animation: deplete 1s linear reverse forwards;
+}
+
+@keyframes deplete {
+  0%{
+      width: 100%;
+      opacity: 1;
+  }
+  100%{
+      width: 0%;
+      opacity: 0;
+  } 
+}
