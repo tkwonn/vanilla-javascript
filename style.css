@@ -1,0 +1,13 @@
+/* CSS */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.imgStyle{
+  object-fit: contain;
+}
+
+a {
+  text-decoration: none;
+}
