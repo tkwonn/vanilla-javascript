@@ -6,4 +6,4 @@
 
 This app allows users to enter the brand, model, and power consumption of the camera. Once the user has made the selections, it will automatically present a list of the most suitable batteries. In this project, I learned how to manipulate a DOM and how to change the elements to be displayed based on user inputs.
 
-Project Link: [https://tkwonn.github.io/computer-builder/](https://tkwonn.github.io/computer-builder/)
+Project Link: [https://battery-finder-program-omega.vercel.app/](https://battery-finder-program-omega.vercel.app/)
