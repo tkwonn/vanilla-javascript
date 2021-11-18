@@ -19,4 +19,4 @@
 This app uses a slider to implement a function that allows users to purchase products by selecting a number, just like a vending machine. In this project, I learned what a DOM is and how to manipulate it in JavaScript, and also learned how to use event listeners to process data through actions in the interface.
 
 
-Project Link: [vending-machine-five.vercel.app/](vending-machine-five.vercel.app)
+Project Link: [https://vending-machine-five.vercel.app/](https://vending-machine-five.vercel.app/p)
